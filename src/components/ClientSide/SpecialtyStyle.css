@@ -1,0 +1,16 @@
+.speciality-container {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    background-color: #000000;
+    border: #ffd000 1px solid;
+    background-attachment: fixed;
+    background-size: cover;
+    background-attachment: fixed;
+    background-size: cover;
+    height: fit-content;
+    align-items: center;
+    justify-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
